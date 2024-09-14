@@ -1,0 +1,31 @@
+.success {
+  background-color: #4caf50;
+}
+
+.info {
+  background-color: #2196f3;
+}
+
+.warning {
+  background-color: #ff9800;
+}
+
+.error {
+  background-color: #f44336;
+}
+
+.success:hover {
+  background-color: #43a047;
+}
+
+.info:hover {
+  background-color: #1976d2;
+}
+
+.warning:hover {
+  background-color: #fb8c00;
+}
+
+.error:hover {
+  background-color: #e53935;
+}
